@@ -20,6 +20,8 @@ public class PyramidBuilder {
 
            if (inputNumbers == null)
                throw new CannotBuildPyramidException();
+           if (inputNumbers.size() == Integer.MAX_VALUE-1)
+               throw new CannotBuildPyramidException();
            bubble(inputNumbers);
            List<List<Integer>> pyramid = preparePyramid(inputNumbers);
            createPyramid(pyramid);
