@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Volkov Sergey
-* Codeship : ![Codeship Status for Dethklok214/javaschoolexam](https://app.codeship.com/projects/9f071700-78df-0137-000c-46b2da9df440/status?branch=master)](https://app.codeship.com/projects/350371)
+* Codeship : ![Codeship Status for Dethklok214/javaschoolexam](https://app.codeship.com/projects/9f071700-78df-0137-000c-46b2da9df440/status?branch=master)]
 
 
 ### How to start?  ###
