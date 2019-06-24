@@ -11,7 +11,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
+* Author name : Volkov Sergey
 * Codeship : https://app.codeship.com/projects/9f071700-78df-0137-000c-46b2da9df440/status?branch=master
 
 
